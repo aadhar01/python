@@ -21,3 +21,6 @@ change src
 > cd src
 > django-admin startproject trydjango .
 > python manage.py runserver
+> 
+
+apps are components of the project
