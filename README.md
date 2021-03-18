@@ -24,3 +24,6 @@ change src
 > 
 
 apps are components of the project
+models.py : model is a single definitive source of information about your data, it contains the essential fileds and behaviours of data you are storing
+
+generally each model maps to single database table.
